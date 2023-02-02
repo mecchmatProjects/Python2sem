@@ -51,5 +51,5 @@ def _12_24():
             counter['metal'] = counter.get('metal', 0) + 1
     print(counter)
 
-
-_12_24()
+if __name__ = '__main__':
+    _12_24()
